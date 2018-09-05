@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ded183-5761-4b99-b0bb-38e858c7cd67" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Juja/#2_2_JuJa Core.mm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juja/src/com/sashashtmv/testSolution/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juja/src/com/sashashtmv/week1/lab11/Lab11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/week1/lab11/Lab11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juja/src/com/sashashtmv/week1/lab12/Lab12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/week1/lab12/Lab12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juja/src/com/sashashtmv/week1/lab13/Lab13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/week1/lab13/Lab13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab15/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab15/SelectSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/mergeSorter/MergeSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../#2_JuJa Core.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../#2_JuJa Core.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Juja.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Juja.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +34,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StartleThief.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            <state relative-caret-position="210">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RobotAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
+      <file leaf-file-name="MergeSorter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/mergeSorter/MergeSorter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="315">
+              <caret line="76" column="46" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+              <folding>
+                <element signature="e#1259#1260#0" expanded="true" />
+                <element signature="e#1291#1292#0" expanded="true" />
+                <element signature="e#2309#2310#0" expanded="true" />
+                <element signature="e#2362#2363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -42,6 +72,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -71,6 +102,33 @@
         <option value="$PROJECT_DIR$/src/com/sashashtmv/week1/lab13/Lab13.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/week1/lab11/Lab11.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest2.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest3.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest5.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest6.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest8.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow2.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest4.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest9.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest7.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow3.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/WhiteCrowTest9.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/WhiteCrowTest2.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/TestAlgoritms/AbstractSample.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/TestAlgoritms/debug/DebugSample.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/WhiteCrow2.java" />
+        <option value="$PROJECT_DIR$/src/WhiteCrow2Test.groovy" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/TestAlgoritms/literals/LiteralsSample.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/WhiteCrow2Test.groovy" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/tests/tests.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/WhiteCrow2Test.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab15/SelectSortTest.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab15/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/Lab16/InsertSortTest.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/Lab16/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/mergeSorter/MergeSorter.java" />
       </list>
     </option>
   </component>
@@ -88,6 +146,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,26 +160,88 @@
               <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="lab15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="lab16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="mergeSorter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Juja" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_65" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sashashtmv.week2.Lab16" />
+      <recent name="com.sashashtmv.week2.lab15" />
+      <recent name="com.sashashtmv.week2.WhiteCrow" />
+      <recent name="" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="com.sashashtmv.week2.WhiteCrow2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sashashtmv.week2" />
       <recent name="com.sashashtmv.roboJuja" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWithJUJA\RoboJuja\src\com\sashashtmv\week2\WhiteCrow" />
       <recent name="D:\JavaWithJUJA\RoboJuja\src\main\java" />
     </key>
   </component>
@@ -135,39 +257,103 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSolution">
+  <component name="RunManager" selected="Application.MergeSorter">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.Main" />
-      <module name="Juja" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="StartleThief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.roboJuja.StartleThief" />
+    <configuration name="MergeSorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.mergeSorter.MergeSorter" />
       <module name="Juja" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sashashtmv.roboJuja.*" />
+          <option name="PATTERN" value="com.sashashtmv.week2.mergeSorter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.testSolution.TestSolution" />
+    <configuration name="WhiteCrowTest7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.WhiteCrowTest7" />
       <module name="Juja" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sashashtmv.testSolution.*" />
+          <option name="PATTERN" value="com.sashashtmv.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="InsertSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Juja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sashashtmv.week2.lab16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sashashtmv.week2.lab16" />
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.lab16.InsertSortTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SelectSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Juja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sashashtmv.week2.lab15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sashashtmv.week2.lab15" />
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.lab15.SelectSortTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="WhiteCrow2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Juja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sashashtmv.week2.whiteCrow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sashashtmv.week2.whiteCrow" />
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.whiteCrow.WhiteCrow2Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -208,15 +394,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.StartleThief" />
-      <item itemvalue="Application.TestSolution" />
+      <item itemvalue="Application.WhiteCrowTest7" />
+      <item itemvalue="JUnit.WhiteCrow2Test" />
+      <item itemvalue="JUnit.SelectSortTest" />
+      <item itemvalue="JUnit.InsertSortTest" />
+      <item itemvalue="Application.MergeSorter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSolution" />
-        <item itemvalue="Application.StartleThief" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MergeSorter" />
+        <item itemvalue="JUnit.InsertSortTest" />
+        <item itemvalue="JUnit.SelectSortTest" />
+        <item itemvalue="JUnit.WhiteCrow2Test" />
+        <item itemvalue="Application.WhiteCrowTest7" />
       </list>
     </recent_temporary>
   </component>
@@ -238,8 +428,54 @@
       <option name="project" value="LOCAL" />
       <updated>1535918558490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1535996817277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535996817277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1535996829456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535996829456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 29m 43s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 31m 03s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 35m 10s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 35m 26s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 38m 02s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 39m 19s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 45m 06s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 47m 00s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 15h 47m 21s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSortTest - 2018.09.05 at 16h 20m 42s.xml">
+      <configuration name="InsertSortTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,31 +493,60 @@
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914287" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32915717" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32915717" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914287" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914287" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30114567" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26104745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39885715" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32915717" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914287" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914287" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32915717" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -299,247 +564,17 @@
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSort.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week1/lab11/Lab11.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week1/lab12/Lab12.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week1/lab13/Lab13.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/testSolution/TestSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/roboJuja/StartleThief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar!/java/awt/Point.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Juja.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -565,6 +600,204 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest8.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest9.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest4.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest5.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest6.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest7.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest8.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest7.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest9.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrowTest2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/testAlgoritms/literals/LiteralsSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WhiteCrow2Test.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/testAlgoritms/AbstractSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/WhiteCrow2Test.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/tests/tests.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/testAlgoritms/debug/DebugSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow/unitTest" />
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/whiteCrow/WhiteCrow2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/ExactComparisonCriteria.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab15/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab15/SelectSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="38" column="42" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar!/java/util/Arrays.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12210">
+          <caret line="603" column="22" selection-start-line="603" selection-start-column="22" selection-end-line="603" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/MergeSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab16/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/mergeSorter/MergeSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="76" column="46" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+          <folding>
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#2309#2310#0" expanded="true" />
+            <element signature="e#2362#2363#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -625,6 +858,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -644,6 +878,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>org.mockito:mockito-all:1.10.19</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

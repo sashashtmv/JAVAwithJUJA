@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f909610-082d-4166-ad44-e226de120177" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Juja/#2_2_JuJa Core.mm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juja/src/com/sashashtmv/testSolution/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/RoboJuja/src/com/sashashtmv/testSolution/TestSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juja/src/com/sashashtmv/week1/lab11/Lab11.java" beforeDir="false" afterPath="$PROJECT_DIR$/RoboJuja/src/com/sashashtmv/week1/lab11/Lab11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juja/src/com/sashashtmv/week1/lab12/Lab12.java" beforeDir="false" afterPath="$PROJECT_DIR$/RoboJuja/src/com/sashashtmv/week1/lab12/Lab12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juja/src/com/sashashtmv/week1/lab13/Lab13.java" beforeDir="false" afterPath="$PROJECT_DIR$/RoboJuja/src/com/sashashtmv/week1/lab13/Lab13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoboJuja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RoboJuja/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f909610-082d-4166-ad44-e226de120177" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,8 +127,8 @@
       <recent name="D:\JavaWithJUJA\Juja" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JavaWithJUJA\RoboJuja\src\com\sashashtmv\roboJuja" />
       <recent name="D:\JavaWithJUJA\RoboJuja\src\com\sashashtmv" />
+      <recent name="D:\JavaWithJUJA\RoboJuja\src\com\sashashtmv\roboJuja" />
       <recent name="D:\JavaWithJUJA\Juja" />
       <recent name="D:\JavaWithJUJA\Juja\src" />
       <recent name="D:\JavaWithJUJA\Juja\com\src" />
@@ -243,6 +236,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1300" height="1044" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
