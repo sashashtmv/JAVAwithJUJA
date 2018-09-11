@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ded183-5761-4b99-b0bb-38e858c7cd67" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/MatrixMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab17/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab18/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab19/LoopLoopCoinsChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab19/MatrixCoinsChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab19/MatrixCoinsChanger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab19/MatrixCoinsChangerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab19/RecursiveCoinsChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab20/RecursiveMatrixSelecter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/SortingLibrary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab17/HanoiSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab17/HanoiSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MatrixMultiplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/MatrixMultiplication.java">
+      <file leaf-file-name="MatrixMultiplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab21/MatrixMultiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixRotateClockWise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CubMatrixRotateClockWise.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -49,9 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sashashtmv/roboJuja/Main.java" />
-        <option value="$PROJECT_DIR$/src/roboJuja/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/sashashtmv/roboJuja/Main.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/roboJuja/Thief.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/roboJuja/STARTLEThief.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/roboJuja/RobotAPI.java" />
@@ -100,6 +115,9 @@
         <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab19/RecursiveCoinsChanger.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab20/RecursiveMatrixSelecter.java" />
         <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/MatrixMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab21/MatrixMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java" />
+        <option value="$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java" />
       </list>
     </option>
   </component>
@@ -115,63 +133,7 @@
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RoboJuja" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sashashtmv" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="lab20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="RoboJuja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -182,7 +144,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_65" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../#4-SortingDojo" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -227,17 +189,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixMultiplication">
+  <component name="RunManager" selected="Application.CubMatrixRotateClockWise">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="LoopLoopCoinsChanger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.lab19.LoopLoopCoinsChanger" />
+    <configuration name="CubMatrixRotateClockWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.lab23.CubMatrixRotateClockWise" />
       <module name="Juja" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sashashtmv.week2.lab19.*" />
+          <option name="PATTERN" value="com.sashashtmv.week2.lab23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,6 +211,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sashashtmv.week2.lab21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MatrixRotateClockWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.lab22.MatrixRotateClockWise" />
+      <module name="Juja" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sashashtmv.week2.lab22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,29 +250,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="MatrixCoinsChangerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Juja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sashashtmv.week2.lab19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.sashashtmv.week2.lab19" />
-      <option name="MAIN_CLASS_NAME" value="com.sashashtmv.week2.lab19.MatrixCoinsChangerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -340,19 +290,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LoopLoopCoinsChanger" />
-      <item itemvalue="JUnit.MatrixCoinsChangerTest" />
       <item itemvalue="Application.RecursiveCoinsChanger" />
       <item itemvalue="Application.RecursiveMatrixSelecter" />
       <item itemvalue="Application.MatrixMultiplication" />
+      <item itemvalue="Application.MatrixRotateClockWise" />
+      <item itemvalue="Application.CubMatrixRotateClockWise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CubMatrixRotateClockWise" />
+        <item itemvalue="Application.MatrixRotateClockWise" />
         <item itemvalue="Application.MatrixMultiplication" />
         <item itemvalue="Application.RecursiveMatrixSelecter" />
         <item itemvalue="Application.RecursiveCoinsChanger" />
-        <item itemvalue="JUnit.MatrixCoinsChangerTest" />
-        <item itemvalue="Application.LoopLoopCoinsChanger" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536160342086</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit2">
+      <created>1536515934403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536515934403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -448,23 +405,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914287" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914287" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27657142" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27657142" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914287" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26104745" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26104745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -477,6 +432,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914287" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914287" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -485,12 +441,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914287" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="4" />
@@ -500,7 +456,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914287" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Key Promoter X" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32915717" />
@@ -514,7 +470,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="first commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit1" />
+    <MESSAGE value="first commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,13 +500,17 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="36" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest9.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow3.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrow2.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest4.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/WhiteCrowTest5.java" />
@@ -757,9 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,10 +749,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/MatrixMultiplication.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab21/MatrixMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
