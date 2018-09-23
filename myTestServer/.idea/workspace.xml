@@ -7,21 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78f8b07f-1119-4e20-be8a-ee5ae5800cb0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/config/DataBaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../#2_JavaPassage_debug-tokens.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RoboJuja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RoboJuja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../#5_JuJaCore2/JuJaCore2" beforeDir="false" afterPath="$PROJECT_DIR$/../#5_JuJaCore2/JuJaCore2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../#5_Snake/Snake" beforeDir="false" afterPath="$PROJECT_DIR$/../#5_Snake/Snake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sashashtmv/AplicationInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/AplicationInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sashashtmv/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sashashtmv/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/controller/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/ua/com/juja/lms/AbstractSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/ua/com/juja/lms/debug/DebugSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/ua/com/juja/lms/literals/LiteralsSample.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,6 +33,7 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="0-SNAPSHOT" value="1" />
           <entry key="class" value="1" />
           <entry key="java" value="1" />
         </counts>
@@ -56,6 +45,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="1" />
+          <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -77,17 +67,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            <state relative-caret-position="391">
+              <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/config/DataBaseConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -116,7 +106,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/config/WebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -268,8 +258,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537704385377" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537715297594" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RemindMeServer" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -402,12 +392,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537635229182</updated>
-      <workItem from="1537648501922" duration="19403000" />
+      <workItem from="1537648501922" duration="21745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19403000" />
+    <option name="totallyTimeSpent" value="21745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1300" height="1044" extended-state="0" />
@@ -423,7 +413,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32967034" />
       <window_info anchor="bottom" id="Spring" weight="0.32967034" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -462,20 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/config/DataBaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/AplicationInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -503,6 +479,46 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.sashashtmv.myTestServer:com.sashashtmv.myTestServer&amp;gt;:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.sashashtmv.myTestServer:com.sashashtmv.myTestServer&amp;gt;:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.sashashtmv.myTestServer:com.sashashtmv.myTestServer&amp;gt;:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-core:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:5.1.0.RELEASE/org.springframework:spring-jcl:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.0.RELEASE/org.springframework:spring-context:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.0.RELEASE/org.springframework:spring-expression:jar:5.1.0.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.0.RELEASE/org.springframework:spring-web:jar:5.1.0.RELEASE</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:4.0.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="193.5" y="273.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sashashtmv/myTestServer/config/DataBaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
