@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ded183-5761-4b99-b0bb-38e858c7cd67" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4-SortingDojo/SortingLibrary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sashashtmv/week2/lab22/MatrixRotateClockWise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/ua/com/juja/lms/AbstractSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/ua/com/juja/lms/debug/DebugSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/ua/com/juja/lms/literals/LiteralsSample.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -144,7 +137,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../#4-SortingDojo" />
+    <property name="last_opened_file_path" value="G:/ФЛЕШКА/JavaRush" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -359,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536515934403</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit3">
+      <created>1536687462781</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536687462781</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -428,27 +428,27 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43542856" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914287" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914287" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914287" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
       <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32915717" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914287" />
       <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
@@ -456,10 +456,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914287" />
+      <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32915717" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -471,7 +471,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="first commit1" />
     <MESSAGE value="first commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit2" />
+    <MESSAGE value="first commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -499,12 +500,6 @@
           <line>15</line>
           <properties />
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="36" />
@@ -766,7 +761,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/sashashtmv/week2/lab23/CubMatrixRotateClockWise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
